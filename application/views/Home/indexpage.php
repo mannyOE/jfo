@@ -32,7 +32,7 @@
 							data-delay="8000" data-title="JFO Ankpa Pikin"
 							>
 							<!-- MAIN IMAGE -->
-							<img src="<?=site_url()?>assets/site/img/revolution/animated_slide_1.jpg"
+							<img src="<?=site_url()?>assets/site/img/4.jpg"
 								alt=""
 								data-bgrepeat="no-repeat"
 								data-bgparallax="7"
