@@ -26,7 +26,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 if($_SERVER['HTTP_HOST'] === "localhost"){
   $config['base_url'] = "http://localhost/jfo/";
 }else{
-  $config['base_url'] = "http://localhost/minesweepers";
+  $config['base_url'] = "http://18.216.78.10/jfo/";
 }
 
 /*
